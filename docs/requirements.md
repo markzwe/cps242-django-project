@@ -259,7 +259,7 @@ flowchart TD
 | Feedback | Saved as Pending, or validation reason | Derived from validation/save outcome |
 
 #### AD-08-01 — Record Daily Timesheet
-![AD-08-01 — Record Daily Timesheet](<diagrams/AD-08-01 Record Daily Timesheet.drawio.png>)
+![AD-08-01 — Record Daily Timesheet](diagrams/Activity/AD-08-01%20Record%20Daily%20Timesheet.drawio.png)
 
 #### ERD-08-01 — Record Daily Timesheet
 
@@ -365,7 +365,7 @@ erDiagram
 
 #### AD-08-02 — Review Timesheet
 
-![AD-08-02 — Review Timesheet](<diagrams/AD-08-02 Review Timesheet.drawio.png>)
+![AD-08-02 — Review Timesheet](diagrams/Activity/AD-08-02%20Review%20Timesheet.drawio.png)
 
 #### ERD-08-02 — Review Timesheet
 
@@ -486,7 +486,7 @@ erDiagram
 
 #### AD-08-03 — Manage Cash Advance
 
-![AD-08-03 — Manage Cash Advance](<diagrams/AD-08-03 Manage Cash Advance.drawio.png>)
+![AD-08-03 — Manage Cash Advance](diagrams/Activity/AD-08-03%20Manage%20Cash%20Advance.drawio.png)
 
 #### ERD-08-03 — Manage Cash Advance
 
@@ -604,7 +604,7 @@ Repayments are read here to compute debt; UC-08-04 creates them. If collection o
 
 #### AD-08-04 — Run Period Payroll
 
-![AD-08-04 — Run Period Payroll](<diagrams/AD-08-04 Run Period Payroll.drawio.png>)
+![AD-08-04 — Run Period Payroll](diagrams/Activity/AD-08-04%20Run%20Period%20Payroll.drawio.png)
 
 #### ERD-08-04 — Run Period Payroll
 
@@ -760,7 +760,7 @@ The earnings and recovery decisions repeat for each worker before the combined p
 
 #### AD-08-05 — Provide Payslip
 
-![AD-08-05 — Provide Payslip](<diagrams/AD-08-05 Provide Payslip.drawio.png>)
+![AD-08-05 — Provide Payslip](diagrams/Activity/AD-08-05%20Provide%20Payslip.drawio.png)
 
 #### ERD-08-05 — Provide Payslip
 
